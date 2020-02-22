@@ -10,9 +10,9 @@ License: MIT
 
 ## Description
 
-**td-mirobot** is a component that can be used to control the [WLkata}(www.wlkata.com/site/index.html) Mirobot
+**td-mirobot** is a component that can be used to control the [WLkata Mirobot](www.wlkata.com/site/index.html)
 
-This component uses the G code protocol to communicate with the Mirobot over a serial connection. The official **G code instruction set** and **driver download** can be found on [HERE](http://www.wlkata.com/site/downloads.html)
+This component uses the G code protocol to communicate with the Mirobot over a serial connection. The official **G code instruction set** and **driver download** can be found at the [WLkata Download Page](www.wlkata.com/site/downloads.html)
 
 ## How to use
 After installing the driver and powering the robot on, check in the Windows Device Manager under Ports to see which com port the Mirobot is attached to.
