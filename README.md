@@ -12,9 +12,9 @@ License: MIT
 
 ## Description
 
-![Mirobot](/images/Mirobot_Solo.jpg)
-
 **td-mirobot** is a TouchDesigner component that can be used to control the [WLkata Mirobot](www.wlkata.com/site/index.html)
+
+![Mirobot](/images/Mirobot_Solo_256.jpg)
 
 This component uses the G code protocol to communicate with the Mirobot over a serial connection. The official **G code instruction set** and **driver download** can be found at the [WLkata Download Page](www.wlkata.com/site/downloads.html)
 
