@@ -12,7 +12,7 @@ License: MIT
 
 ## Description
 
-![Mirobot](http://www.wlkata.com/site/img/upimages/BG_Image/Mirobot_Solo.jpg)
+![Mirobot](/images/Mirobot_Solo.jpg)
 
 **td-mirobot** is a TouchDesigner component that can be used to control the [WLkata Mirobot](www.wlkata.com/site/index.html)
 
